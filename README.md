@@ -1,5 +1,5 @@
 # ros-snake-noetic
-Clone into "src" folder
+Clone into your workspace
 
 Download effort controller:
 sudo apt-get install ros-noetic-ros-control ros-noetic-ros-controllers
