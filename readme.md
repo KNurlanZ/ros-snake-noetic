@@ -8,11 +8,11 @@ This repository contains files that control either the simulated model or the re
 The simulated model is spawned in the Gazebo engine. Also, visualization is available in RViz. Everything is interconnected within Robot Operating System (ROS). 
 
 ## Prerequisites 
-The project has been implemented on Ubuntu 16.04 machine with ROS Kinetic. To be able to run the project ROS must be installed on your local machine. Also, the following libraries are required:
+The project has been implemented on Ubuntu 20.04 machine with ROS Noetic. To be able to run the project ROS must be installed on your local machine. Also, the following libraries are required:
 
   - Gazebo
   - MoveIt
-
+Download effort controller: sudo apt-get install ros-noetic-ros-control ros-noetic-ros-controllers
 ## Running
 #### Simulation
 How to launch moveit:
