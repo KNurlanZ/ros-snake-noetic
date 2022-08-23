@@ -12,7 +12,7 @@ The project has been implemented on Ubuntu 20.04 machine with ROS Noetic. To be 
 
   - Gazebo
   - MoveIt
-Download effort controller: sudo apt-get install ros-noetic-ros-control ros-noetic-ros-controllers
+  - Download effort controller: sudo apt-get install ros-<distro>-ros-control ros-<distro>-ros-controllers
 ## Running
 #### Simulation
 How to launch moveit:
