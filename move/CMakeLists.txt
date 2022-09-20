@@ -15,8 +15,6 @@ find_package(catkin REQUIRED COMPONENTS
   dynamixel_msgs
   tf
   moveit_ros_planning_interface
-  rviz_visual_tools
-  moveit_visual_tools
 )
 
 ## System dependencies are found with CMake's conventions
