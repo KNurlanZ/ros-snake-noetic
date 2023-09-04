@@ -12,7 +12,7 @@ The project has been implemented on Ubuntu 20.04 machine with ROS Noetic. To be 
 
   - Gazebo
   - MoveIt
-  - Download effort controller: sudo apt-get install ros-YOUR_ROS_DISTRIBUTION-ros-control ros-YOUR_ROS_DISTRIBUTION-ros-controller
+  - Download effort controller: sudo apt-get install ros-YOUR_ROS_DISTRIBUTION-ros-control
   - Clone dynamixel-motor into src folder: git clone https://github.com/arebgun/dynamixel_motor
 ## Running
 #### Simulation
